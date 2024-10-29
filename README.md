@@ -1,0 +1,2 @@
+# Relay Modules
+I developed a water pump using relay modules with Arduino, enabling control of high-voltage devices safely through low-voltage signals. Relay modules were crucial for learning how to manage power in projects, acting as switches that allow control over appliances and lighting systems. This knowledge is particularly valuable in home automation and safety setups, where relay modules play a key role in remotely operating and automating devices.
